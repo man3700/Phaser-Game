@@ -1,4 +1,3 @@
-import { Vector } from "matter";
 import Phaser = require("phaser");
 
 import { Arc, PhysicsBody, Text } from "../types";
