@@ -3,6 +3,7 @@ import Phaser = require("phaser");
 import { Text } from "../types";
 
 class TitleScene extends Phaser.Scene {
+
     preload() {
 
     }
